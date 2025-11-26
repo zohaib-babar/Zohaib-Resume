@@ -2,14 +2,13 @@ export default function Summary() {
   return (
     <section>
       <div className="text-center">
-        <h2 className="text-3xl text-gray-800 font-bold mb-1">About me</h2>
+        <h2 className="text-3xl text-gray-800 font-bold mb-1">𝕬𝖇𝖔𝖚𝖙 𝖒𝖊</h2>
         <p className="text-gray-700 font-bold">
-          My name is Muhammad Zohaib Babar and i am a Frontened Developer
-          <br></br> with 1 year Experience. I enjoy to building Web Apps designs
-          <br></br>
-          When I'm not coding, I enjoy playing video games, watching movies, and
-          playing<br></br> with my cat. I also enjoy learning new things. I am
-          currently learning <br></br> about new technologies.
+          𝕸𝖞 𝖓𝖆𝖒𝖊 𝖎𝖘 𝕸𝖚𝖍𝖆𝖒𝖒𝖆𝖉 𝖅𝖔𝖍𝖆𝖎𝖇 𝕭𝖆𝖇𝖆𝖗 𝖆𝖓𝖉 𝖎 𝖆𝖒 𝖆 𝕱𝖗𝖔𝖓𝖙𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗 𝖜𝖎𝖙𝖍 1
+          𝖞𝖊𝖆𝖗 𝕰𝖝𝖕𝖊𝖗𝖎𝖊𝖓𝖈𝖊. 𝕴 𝖊𝖓𝖏𝖔𝖞 𝖇𝖚𝖎𝖑𝖉𝖎𝖓𝖌 𝖂𝖊𝖇 𝕬𝖕𝖕𝖘 𝖆𝖓𝖉 𝖉𝖊𝖘𝖎𝖌𝖓𝖘. 𝖂𝖍𝖊𝖓 𝕴'𝖒 𝖓𝖔𝖙
+          𝖈𝖔𝖉𝖎𝖓𝖌, 𝕴 𝖊𝖓𝖏𝖔𝖞 𝖕𝖑𝖆𝖞𝖎𝖓𝖌 𝖛𝖎𝖉𝖊𝖔 𝖌𝖆𝖒𝖊𝖘, 𝖜𝖆𝖙𝖈𝖍𝖎𝖓𝖌 𝖒𝖔𝖛𝖎𝖊𝖘, 𝖆𝖓𝖉 𝖕𝖑𝖆𝖞𝖎𝖓𝖌 𝖜𝖎𝖙𝖍
+          𝖒𝖞 𝖈𝖆𝖙. 𝕴 𝖆𝖑𝖘𝖔 𝖊𝖓𝖏𝖔𝖞 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖓𝖊𝖜 𝖙𝖍𝖎𝖓𝖌𝖘. 𝕴 𝖆𝖒 𝖈𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌
+          𝖆𝖇𝖔𝖚𝖙 𝖓𝖊𝖜 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘.
         </p>
       </div>
       <div className="flex gap-5 justify-center mt-7">
@@ -49,7 +48,7 @@ export default function Summary() {
           />
         </a>
 
-        { /* github */ }
+        {/* github */}
 
         <a
           href="https://github.com/zohaib-babar"
