@@ -1,7 +1,7 @@
 export default function Skills() {
   return (
     <section className="py-16 bg-gray-300 rounded-2xl text-white flex flex-col items-center">
-      <h2 className="text-4xl text-gray-800 font-bold mb-10">My Skills</h2>
+      <h2 className="text-4xl text-gray-800 font-bold mb-10">𝕸𝖞 𝕾𝖐𝖎𝖑𝖑𝖘</h2>
 
       <div className="flex flex-wrap justify-center gap-10 max-w-3xl">
         {[
