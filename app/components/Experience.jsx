@@ -3,7 +3,7 @@ import React from "react";
 export default function Experience() {
   return (
     <section className="min-h-screen rounded-2xl bg-gray-300 text-white flex flex-col items-center py-20 px-4">
-      <h2 className="text-4xl font-bold text-gray-800 mb-16">My Study About</h2>
+      <h2 className="text-4xl font-bold text-gray-800 mb-16">𝓜𝔂 𝓢𝓽𝓾𝓭𝔂 𝓐𝓫𝓸𝓾𝓽</h2>
 
       <div className="relative w-full max-w-5xl">
         <div className="absolute left-1/2 top-0 h-full w-1 bg-gray-600 transform -translate-x-1/2" />
@@ -40,7 +40,7 @@ export default function Experience() {
           <div className="w-1/2 pr-10 flex justify-end">
             <div className="bg-[#121b28] shadow-xl p-6 rounded-xl w-80">
               <h3 className="font-semibold">Front-End Developer</h3>
-              <p className="text-sm text-gray-300">Gujrat</p>
+              <p className="text-sm text-gray-300">Lahore</p>
               <p className="text-sm mt-2 text-gray-400">
                 I'm now a front-end developer working as a freelancer. My stack includes
                 HTML, CSS, React, Next.js, Tailwind. I'm open to full-time opportunities.

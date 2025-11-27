@@ -56,7 +56,7 @@ export default function Contact() {
           type="submit"
           className="bg-gray-700 text-white py-2 px-4 rounded-full flex items-center justify-center gap-2 hover:bg-gray-600 transition"
         >
-          Submit ✈️
+          Submit
         </button>
       </form>
     </section>

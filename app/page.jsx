@@ -3,7 +3,6 @@ import Summary from "./components/About";
 import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
-import Education from "./components/Contect";
 import Contect from "./components/Contect";
 
 export default function ResumePage() {
