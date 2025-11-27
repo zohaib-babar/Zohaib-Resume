@@ -42,7 +42,7 @@ export default function Experience() {
               <h3 className="font-semibold">Front-End Developer</h3>
               <p className="text-sm text-gray-300">Lahore</p>
               <p className="text-sm mt-2 text-gray-400">
-                I'm now a front-end developer working as a freelancer. My stack includes
+                I'm now a front-end developer Building a Website Clones. My stack includes
                 HTML, CSS, React, Next.js, Tailwind. I'm open to full-time opportunities.
               </p>
             </div>

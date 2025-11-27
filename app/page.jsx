@@ -8,7 +8,7 @@ import Contect from "./components/Contect";
 export default function ResumePage() {
   return (
     <main className="min-h-screen bg-gray-800 p-6 flex justify-center">
-      <div className="w-full max-w-4xl bg-gray-200 shadow-lg rounded-2xl p-6 space-y-8">
+      <div className="w-full max-w-4xl bg- shadow-lg rounded-2xl p-6 space-y-8">
         <Header />
         <Summary />
         <Skills />
