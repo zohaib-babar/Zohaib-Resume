@@ -1,27 +1,3 @@
-// export default function Contect() {
-//   return (
-//     <section>
-//       <h2 className="text-gray-800 text-3xl text-center font-semibold mb-1">
-//         Contect me
-//       </h2>
-//       <p className="text-black text-center">
-//         Please contect me directly at zohaibbabar3388@gmail.com or through this
-//         <br></br> form.
-//       </p>
-//       <div className=" text-gray-800 grid gap text-center items-center p-5">
-//         <label htmlFor="email">Email Address:</label>
-//         <input
-//           className="text-gray-900 p-3 bg-gray-500 border-1  h-[40px] w-[300px] items-center justify-center"
-//           type="email"
-//           id="email"
-//           placeholder="Enter your email"
-//         />
-//         <input className="border-1 p-3" type="text" placeholder="Your message" />
-//       </div>
-//     </section>
-//   );
-// };
-
 export default function Contact() {
   return (
     <section className="bg-[#0d1117] rounded-2xl py-16 px-4">
@@ -33,7 +9,7 @@ export default function Contact() {
         Please contact me directly at{" "}
         <a
           href="mailto:zohaibbabar3388@gmail.com"
-          className="text-blue-400 underline"
+          className=" hover:text-blue-600 underline"
         >
           zohaibbabar3388@gmail.com
         </a>{" "}
@@ -54,7 +30,7 @@ export default function Contact() {
 
         <button
           type="submit"
-          className="bg-gray-700 text-white py-2 px-4 rounded-full flex items-center justify-center gap-2 hover:bg-gray-600 transition"
+          className="bg-gray-700 text-white py-2 px-4 rounded-full flex items-center justify-center gap-2 hover: transition"
         >
           Submit
         </button>

@@ -6,7 +6,7 @@ export default function Experience() {
       <h2 className="text-4xl font-bold text-gray-800 mb-16">𝓜𝔂 𝓢𝓽𝓾𝓭𝔂 𝓐𝓫𝓸𝓾𝓽</h2>
 
       <div className="relative w-full max-w-5xl">
-        <div className="absolute left-1/2 top-0 h-full w-1 bg-gray-600 transform -translate-x-1/2" />
+        <div className="absolute left-1/2 top-0 h-full w-1 bg-gray-600 -translate-x-1/2" />
 
         <div className="relative flex items-center mb-28">
           <div className="w-1/2 pr-10 flex justify-end">
