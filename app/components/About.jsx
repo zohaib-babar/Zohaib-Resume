@@ -11,6 +11,7 @@ export default function Summary() {
           𝖆𝖇𝖔𝖚𝖙 𝖓𝖊𝖜 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘.
         </p>
       </div>
+      <div><p className="text-center">Please Contact me in this Social Media <a className="underline text-blue-600"> links</a></p></div>
       <div className="flex gap-5 justify-center mt-7">
         <a
           href="https://www.facebook.com/profile.php?id=61563404212515"
