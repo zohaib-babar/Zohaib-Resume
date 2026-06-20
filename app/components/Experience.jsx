@@ -52,24 +52,6 @@ export default function Experience() {
             2025
           </div>
         </div>
-
-
-        <div className="relative flex items-center mb-28">
-          <div className="w-1/2 pr-10 flex justify-end">
-            <div className="bg-[#121b28] shadow-xl p-6 rounded-xl w-80">
-              <h3 className="font-semibold">Front-End Developer</h3>
-              <p className="text-sm text-gray-300">Lahore</p>
-              <p className="text-sm mt-2 text-gray-400">
-                I'm now a front-end developer Building a Website Clones. My stack includes
-                HTML, CSS, React, Next.js, Tailwind. I'm open to full-time opportunities.
-              </p>
-            </div>
-          </div>
-
-          <div className="absolute left-1/2 transform -translate-x-1/2 bg-[#121b28] border-2 border-white text-white rounded-full w-14 h-14 flex items-center justify-center text-sm font-semibold">
-            2025
-          </div>
-        </div>
       </div>
     </section>
   );
